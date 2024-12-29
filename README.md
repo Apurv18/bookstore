@@ -1,6 +1,8 @@
-# bookstore
-The Bookstore Project is a full-stack web application designed to provide an intuitive and seamless experience for users to browse, purchase, and manage books online.
-Frontend: React.js
-Backend: Node.js (Express.js)
-Database: MongoDB 
-Authentication: or OAuth2.
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
